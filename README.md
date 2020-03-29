@@ -1,6 +1,11 @@
 # Android-Studio-NOTE
 Some android studio tutorials
 
+---interface layout---
+* How to adjust ConstraintLayout
+https://www.youtube.com/watch?v=_NBJbOI2Rkw
+
+---Data Transfer---
 * How to use Bundle</p>
 https://ithelp.ithome.com.tw/articles/10187466</p>
 
