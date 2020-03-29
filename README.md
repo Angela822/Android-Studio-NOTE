@@ -2,7 +2,7 @@
 Some android studio tutorials
 
 ---interface layout---
-* How to adjust ConstraintLayout
+* How to adjust ConstraintLayout</p>
 https://www.youtube.com/watch?v=_NBJbOI2Rkw
 
 ---Data Transfer---
