@@ -7,8 +7,7 @@ https://www.youtube.com/watch?v=_NBJbOI2Rkw
 * How to use Scrollview</p>
 https://www.youtube.com/watch?v=Wx1wnv4fzyQcon
 * Options Menu Fragment(contain sort)</p>
-https://www.youtube.com/watch?v=6fTqJplAfY0
-</p>
+https://www.youtube.com/watch?v=6fTqJplAfY0</p>
 https://www.youtube.com/watch?v=XB315ZqKRAA 更新版
 
 ---Data Transfer---
