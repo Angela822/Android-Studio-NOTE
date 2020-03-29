@@ -8,8 +8,8 @@ https://www.youtube.com/watch?v=_NBJbOI2Rkw
 https://www.youtube.com/watch?v=Wx1wnv4fzyQcon
 * Options Menu Fragment(contain sort)</p>
 https://www.youtube.com/watch?v=6fTqJplAfY0
-更新版</p>
-https://www.youtube.com/watch?v=XB315ZqKRAA
+</p>
+https://www.youtube.com/watch?v=XB315ZqKRAA 更新版
 
 ---Data Transfer---
 * How to use Bundle</p>
