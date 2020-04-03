@@ -10,6 +10,8 @@ https://www.youtube.com/watch?v=Wx1wnv4fzyQcon
 https://www.youtube.com/watch?v=6fTqJplAfY0</p>
 https://www.youtube.com/watch?v=XB315ZqKRAA 更新版
 * Card View</p>
+-Fragment with RecyclerView-</p>
+https://www.youtube.com/watch?v=T_QfRU-A3s4 + https://www.youtube.com/watch?v=SD2t75T5RdY&t=1331s</p>
 https://www.youtube.com/watch?v=Lq3Wvcy1kHo&feature=youtu.be
 
 ---Data Transfer---
