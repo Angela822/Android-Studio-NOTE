@@ -13,9 +13,9 @@ https://www.youtube.com/watch?v=XB315ZqKRAA 更新版
 -Fragment with RecyclerView-</p>
 https://www.youtube.com/watch?v=T_QfRU-A3s4 + https://www.youtube.com/watch?v=SD2t75T5RdY&t=1331s</p>
 https://www.youtube.com/watch?v=Lq3Wvcy1kHo&feature=youtu.be</p>
-Glide</p>
+-Glide-</p>
 https://www.raywenderlich.com/2945946-glide-tutorial-for-android-getting-started</p>
-RecyclerView OnClickListener to New Activity</p>
+-RecyclerView OnClickListener to New Activity-</p>
 https://www.youtube.com/watch?v=ZXoGG2XTjzU</p>
 https://www.youtube.com/watch?v=Zd0TUuoPP-s</p>
 * Switch</p>
