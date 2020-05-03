@@ -5,6 +5,9 @@ Some android studio tutorials
 * How to hide the keyboard on screen touch</p>
 https://www.youtube.com/watch?v=N8mDDevOj-I</p>
 
+* editText&驗證</p>
+https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
+----------------</p>
 * How to add Up Button</p>
 https://www.youtube.com/watch?v=IrJ8Hzuz2LU</p>
 https://www.youtube.com/watch?v=JkVdP-e9BCo</p>
