@@ -2,6 +2,9 @@
 Some android studio tutorials
 
 ---interface layout---
+* How to hide the keyboard on screen touch</p>
+https://www.youtube.com/watch?v=N8mDDevOj-I</p>
+
 * How to add Up Button</p>
 https://www.youtube.com/watch?v=IrJ8Hzuz2LU</p>
 https://www.youtube.com/watch?v=JkVdP-e9BCo</p>
