@@ -12,6 +12,10 @@ https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
 * Search View</p>
 https://www.youtube.com/watch?v=qzbvDJqXeJs</p>
 
+* Sort button on toolbar</p>
+https://www.youtube.com/watch?v=6fTqJplAfY0&t=3s</p>
+https://www.youtube.com/watch?v=8YHwsrZ-DRI</p>
+
 * How to add Up Button</p>
 https://www.youtube.com/watch?v=IrJ8Hzuz2LU</p>
 https://www.youtube.com/watch?v=JkVdP-e9BCo</p>
