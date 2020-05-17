@@ -9,6 +9,10 @@ https://www.youtube.com/watch?v=N8mDDevOj-I</p>
 https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
 ----------------</p>
 
+* Hashtag</p>
+https://github.com/greenfrvr/hashtag-view</p>
+https://pragmaapps.com/simplest-guidance-implement-hashtag-mentions-android-mobile-app/</p>
+
 * Search View</p>
 https://www.youtube.com/watch?v=qzbvDJqXeJs</p>
 
