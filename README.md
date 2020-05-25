@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=tccoRIrMyhU</p>
 
 * Swipe Refresh</p>
 https://www.youtube.com/watch?v=KLrq8nQeIn8</p>
+  --change color</p>
+  https://www.cnblogs.com/tianzhijiexian/p/4233593.html</p>
+  
   --Refresh Recyclerview</p>
   https://www.youtube.com/watch?v=Ffa0Mtd21_M</p>
   
