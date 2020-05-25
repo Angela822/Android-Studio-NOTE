@@ -8,8 +8,11 @@ https://www.youtube.com/watch?v=tccoRIrMyhU</p>
 
 * Swipe Refresh</p>
 https://www.youtube.com/watch?v=KLrq8nQeIn8</p>
-  --Refresh Recyclerview--</p>
+  --Refresh Recyclerview</p>
   https://www.youtube.com/watch?v=Ffa0Mtd21_M</p>
+  
+  --Remove&Insert by swiping left or right</p>
+  https://www.youtube.com/watch?v=kaf2dCd8Zfs</p>
 
 ---interface layout---
 * How to hide the keyboard on screen touch</p>
