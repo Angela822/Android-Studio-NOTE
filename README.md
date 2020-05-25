@@ -1,16 +1,20 @@
 # Android-Studio-NOTE
 Some android studio tutorials
 
+---Animation---
+* loading</p>
+https://www.youtube.com/watch?v=zv9R5EcRKHM</p>
+https://www.youtube.com/watch?v=tccoRIrMyhU</p>
+
+* Swipe Refresh</p>
+https://www.youtube.com/watch?v=KLrq8nQeIn8</p>
+
 ---interface layout---
 * How to hide the keyboard on screen touch</p>
 https://www.youtube.com/watch?v=N8mDDevOj-I</p>
 
 * editText&驗證</p>
 https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
-
-* loading anmi</p>
-https://www.youtube.com/watch?v=zv9R5EcRKHM</p>
-https://www.youtube.com/watch?v=tccoRIrMyhU</p>
 ----------------</p>
 
 * Hashtag</p>
