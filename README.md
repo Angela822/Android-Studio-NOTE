@@ -7,6 +7,10 @@ https://www.youtube.com/watch?v=N8mDDevOj-I</p>
 
 * editText&驗證</p>
 https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
+
+* loading anmi</p>
+https://www.youtube.com/watch?v=zv9R5EcRKHM</p>
+https://www.youtube.com/watch?v=tccoRIrMyhU</p>
 ----------------</p>
 
 * Hashtag</p>
