@@ -30,6 +30,7 @@ https://material.io/develop/android/components/chip/</p>
 範例</p>
 https://www.youtube.com/watch?v=Yu_5F1VNpjk&frags=pl%2Cwn <--運用在filter的功能上</p>
 https://www.youtube.com/watch?v=UCZeHeDDBMw <--輸入文字後按enter將文字包起來</p>
+https://www.youtube.com/watch?v=EA5_1tPhFZ8 <--Entry Chip</p>
 
 * TagView</p>
 範例</br>
