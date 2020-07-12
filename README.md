@@ -27,6 +27,8 @@ https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
 * ChipView</p>
 https://medium.com/material-design-in-action/chips-material-components-for-android-46001664a40f</p>
 https://material.io/develop/android/components/chip/</p>
+範例</p>
+https://www.youtube.com/watch?v=Yu_5F1VNpjk&frags=pl%2Cwn <--運用在filter的功能上</p>
 
 * TagView</p>
 範例</br>
