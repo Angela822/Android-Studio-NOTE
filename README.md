@@ -24,6 +24,13 @@ https://www.youtube.com/watch?v=N8mDDevOj-I</p>
 * editText&驗證</p>
 https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
 ----------------</p>
+* ChipView</p>
+https://medium.com/material-design-in-action/chips-material-components-for-android-46001664a40f</p>
+https://material.io/develop/android/components/chip/</p>
+
+* TagView</p>
+範例</br>
+https://github.com/Cutta/TagView</p>
 
 * Hashtag</p>
 https://github.com/greenfrvr/hashtag-view</p>
