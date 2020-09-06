@@ -68,9 +68,9 @@ https://www.raywenderlich.com/2945946-glide-tutorial-for-android-getting-started
 https://www.youtube.com/watch?v=ZXoGG2XTjzU</p>
 https://www.youtube.com/watch?v=Zd0TUuoPP-s</p>
 -Multiple Layout RecyclerView-</p>
-https://www.youtube.com/watch?v=KuFs7VTlsvw
+https://www.youtube.com/watch?v=KuFs7VTlsvw</p>
 ==Recyclerview in Recyclerview==</p>
-https://www.youtube.com/watch?v=K2FSLZzYnnQ
+https://www.youtube.com/watch?v=K2FSLZzYnnQ</p>
 * Switch</p>
 -How to Save State Of Switch Button in Android Studio-</p>
 https://www.youtube.com/watch?v=RyiTx8lWdx0</p>
