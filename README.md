@@ -58,7 +58,7 @@ https://www.youtube.com/watch?v=Wx1wnv4fzyQcon
 * Options Menu Fragment(contain sort)</p>
 https://www.youtube.com/watch?v=6fTqJplAfY0</p>
 https://www.youtube.com/watch?v=XB315ZqKRAA 更新版
-* Card View</p>
+* Recyclerview & Card View</p>
 -Fragment with RecyclerView-</p>
 https://www.youtube.com/watch?v=T_QfRU-A3s4 + https://www.youtube.com/watch?v=SD2t75T5RdY&t=1331s</p>
 https://www.youtube.com/watch?v=Lq3Wvcy1kHo&feature=youtu.be</p>
@@ -66,6 +66,8 @@ https://www.youtube.com/watch?v=Lq3Wvcy1kHo&feature=youtu.be</p>
 https://www.raywenderlich.com/2945946-glide-tutorial-for-android-getting-started</p>
 -RecyclerView OnClickListener to New Activity-</p>
 https://www.youtube.com/watch?v=ZXoGG2XTjzU</p>
+https://www.youtube.com/watch?v=Zd0TUuoPP-s</p>
+-Click Recyclerview to show dialog- </p>
 https://www.youtube.com/watch?v=Zd0TUuoPP-s</p>
 -Multiple Layout RecyclerView-</p>
 https://www.youtube.com/watch?v=KuFs7VTlsvw</p>
