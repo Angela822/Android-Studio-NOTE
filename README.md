@@ -62,6 +62,11 @@ https://www.youtube.com/watch?v=XB315ZqKRAA 更新版
 -Fragment with RecyclerView-</p>
 https://www.youtube.com/watch?v=T_QfRU-A3s4 + https://www.youtube.com/watch?v=SD2t75T5RdY&t=1331s</p>
 https://www.youtube.com/watch?v=Lq3Wvcy1kHo&feature=youtu.be</p>
+-LayoutManager-</p>
+4大LayoutManager講解</p>
+https://www.twblogs.net/a/5c35d166bd9eee35b21d2868</p>
+--FlexboxLayout--</p>
+https://www.jianshu.com/p/3c471953e36d</p>
 -Glide-</p>
 https://www.raywenderlich.com/2945946-glide-tutorial-for-android-getting-started</p>
 -RecyclerView OnClickListener to New Activity-</p>
