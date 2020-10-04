@@ -2,7 +2,7 @@
 Some android studio tutorials
 
 ---Animation---
-* loading</p></bold>
+* loading</p>
 https://www.youtube.com/watch?v=zv9R5EcRKHM</p>
 https://www.youtube.com/watch?v=tccoRIrMyhU</p>
 
