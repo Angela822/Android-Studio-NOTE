@@ -39,6 +39,8 @@ https://github.com/Cutta/TagView</p>
 * Hashtag</p>
 https://github.com/greenfrvr/hashtag-view</p>
 https://pragmaapps.com/simplest-guidance-implement-hashtag-mentions-android-mobile-app/</p>
+--Hastag樣式 NachoTextView--</p>
+https://github.com/hootsuite/nachos
 
 * Search View</p>
 https://www.youtube.com/watch?v=qzbvDJqXeJs</p>
