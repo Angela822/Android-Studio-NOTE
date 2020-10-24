@@ -24,6 +24,10 @@ https://www.youtube.com/watch?v=N8mDDevOj-I</p>
 * editText&驗證</p>
 https://www.youtube.com/watch?v=veOZTvAdzJ8</p>
 ----------------</p>
+
+* MaterialDialog</p>
+https://www.itread01.com/content/1546860248.html 相關彈框樣式</p>
+
 * ChipView</p>
 https://medium.com/material-design-in-action/chips-material-components-for-android-46001664a40f</p>
 https://material.io/develop/android/components/chip/</p>
